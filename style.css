@@ -1,0 +1,22 @@
+hr{
+   
+     top: 10px;
+     border: none;
+     height: 4px;
+     background: black;
+     margin-bottom: 20px;
+}
+
+img{
+    height: 120px;
+    margin: 2%;
+    border-radius: 50%;
+}
+
+/* table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    
+  } */
+
+
